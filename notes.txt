@@ -6,3 +6,4 @@ To merge a branch to master:
 3-dots and fetch on the branch
 3-dots and Branch, Merge, choose the beta branch
 
+the website link: https://greyskrene.github.io/Portfolio/
